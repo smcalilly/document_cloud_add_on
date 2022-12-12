@@ -1,5 +1,5 @@
 # The title is the title of your Add-On
-title: Hello World
+title: Sam's Test Add-on
 # The description will be shown above the form when activating the Add-On
 description: This is an updated simple test add-on
 # Top level type should always be object
@@ -11,11 +11,11 @@ documents:
   - query
   # By the currently selected documents
   - selected
-# Properties are the fields for your form
+# Properties are the fields for your form aka fields in the UI. determine the user input you're getting from the users of your add-on
 properties:
   # the key is the name of the variable that will be returned to your code
   name:
     # the title is what will be shown as the form label
-    title: Name
+    title: Username
     # a string is text
     type: string
