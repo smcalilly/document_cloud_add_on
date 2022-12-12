@@ -1,9 +1,7 @@
 
-# DocumentCloud Add-On
+# DocumentCloud Test Add-On
 
 [Please see the Add-On documentation](https://github.com/MuckRock/documentcloud-hello-world-addon/wiki/)
-
-# DocumentCloud Hello World Add-On
 
 This repository contains an example Add-On for DocumentCloud.  It is designed
 to be copied and modified to allow one to easily write Add-Ons to bring custom
